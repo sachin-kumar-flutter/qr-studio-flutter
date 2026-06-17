@@ -75,4 +75,4 @@ qr_flutter:     # QR code generation from string data
 
 **Sachin Kumar**  
 Flutter Developer | B.Tech CSE  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/sachin-kumar-flutter)
+[LinkedIn](https://linkedin.com/in/sachin-kumar-flutter) • [GitHub](https://github.com/sachin-kumar-flutter)
