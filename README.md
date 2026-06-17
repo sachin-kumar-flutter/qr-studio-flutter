@@ -13,12 +13,13 @@ A clean, minimal QR Code Scanner and Generator built with Flutter — featuring 
 
 ---
 
-## Screenshots
 
-<img width="720" height="1650" alt="6cc7d1b8-c5fe-4b2d-81e1-85db30a51185" src="https://github.com/user-attachments/assets/3d5c074e-03f0-460b-9509-67007507c188" />
-<img width="720" height="1650" alt="8416fd1f-c4f3-4e7d-a65b-08d451a0030b" src="https://github.com/user-attachments/assets/0d162d59-c97b-432c-a27e-1ab152020c4d" />
+## 📸 Screenshots
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d5c074e-03f0-460b-9509-67007507c188" width="250">
+  <img src="https://github.com/user-attachments/assets/0d162d59-c97b-432c-a27e-1ab152020c4d" width="250">
+</p>
 ---
 
 ## Tech Stack
