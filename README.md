@@ -15,7 +15,7 @@ A clean, minimal QR Code Scanner and Generator built with Flutter — featuring 
 
 ## Screenshots
 
-> Add screenshots here after taking them from your emulator
+
 
 ---
 
